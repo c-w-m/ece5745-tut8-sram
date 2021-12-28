@@ -2,6 +2,8 @@
 ECE 5745 Tutorial 8: SRAM Generators
 ==========================================================================
 
+* [cornell-ece5745/ece5745-tut8-sram](https://github.com/cornell-ece5745/ece5745-tut8-sram)
+
 This repository contains the code and documentation for ECE 5745 Tutorial
 8 on SRAM generators. The tutorial describes how to use both the OpenRAM
 memory generator to generate actual layout as well as how to use a CACTI
